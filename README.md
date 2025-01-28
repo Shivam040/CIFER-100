@@ -1,2 +1,2 @@
-# CIFER-100
-Models for CIFER-100
+# CIFAR-100
+Models for CIFAR-100
